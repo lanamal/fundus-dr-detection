@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+albumentations
+imagehash
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow
+tqdm
